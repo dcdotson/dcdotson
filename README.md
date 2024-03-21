@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/dcdotson/ADHL)
+  - [Active Directory Home Lab](https://github.com/dcdotson/ActiveDirectoryLab/blob/main/README.md)
 - [Hello World!](https://github.com/dcdotson/HWRLD)
   
 <h2>📄 Certifications</h2>
