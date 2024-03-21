@@ -21,7 +21,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[youtube]: https://www.youtube.com/c/derekdotson
+[youtube]: https://www.youtube.com/@dcdotson
 [instagram]: https://www.instagram.com/derekdotson/
 [linkedin]: https://linkedin.com/in/derekdotson
 
